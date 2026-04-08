@@ -21,7 +21,7 @@ In Git Bash (Windows) or Terminal (Mac, Linux):
 
 1. Navigate to the folder where the local repository was created.
 1. Check that the correct username and email is set using the `git config -l` command.
-1. Switch to the **develop** git checkout devlop` branch and execute a `git pull` to get the latest code from the remote repository.
+1. Switch to the **develop**  `git checkout devlop` branch and execute a `git pull` to get the latest code from the remote repository.
 1. Add, modify and/or delete a file(s).
 1. When the changes are complete:
     1. test the changes
